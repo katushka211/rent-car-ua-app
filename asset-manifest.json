@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rent-car-ua-app/static/css/main.073c9b0a.css",
+    "main.js": "/rent-car-ua-app/static/js/main.586ba96f.js",
+    "static/js/787.bd2f8501.chunk.js": "/rent-car-ua-app/static/js/787.bd2f8501.chunk.js",
+    "static/media/logo.svg": "/rent-car-ua-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rent-car-ua-app/index.html",
+    "main.073c9b0a.css.map": "/rent-car-ua-app/static/css/main.073c9b0a.css.map",
+    "main.586ba96f.js.map": "/rent-car-ua-app/static/js/main.586ba96f.js.map",
+    "787.bd2f8501.chunk.js.map": "/rent-car-ua-app/static/js/787.bd2f8501.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.586ba96f.js"
+  ]
+}
