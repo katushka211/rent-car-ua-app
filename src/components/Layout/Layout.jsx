@@ -18,8 +18,10 @@ export const Layout = () => {
         </nav>
       </header>
       <main>
-        <Suspense fallback={<p>Loading...</p>}>
-          <Outlet />
+        <Suspense fallback={<div>Loading...</div>}>
+          <div>
+            <Outlet />
+          </div>
         </Suspense>
       </main>
     </>
